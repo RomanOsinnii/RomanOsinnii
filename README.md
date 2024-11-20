@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RomanOsinnii
+- 👀 I’m interested in codding on C/C++
+- 🌱 I’m currently learning C, http/ws for creating my own messanger
+- ⚡ Fun fact: I like php)
